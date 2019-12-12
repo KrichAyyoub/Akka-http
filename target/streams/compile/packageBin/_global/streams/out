@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/krich/Téléchargements/testakkahttp/target/scala-2.12/swagger-scala-akka-http-server_2.12-1.0.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/AkkaHttpHelper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/AkkaHttpHelper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/model/Vente$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/model/Vente$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/model/Vente.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/model/Vente.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/AkkaHttpHelper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/AkkaHttpHelper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/api/DefaultApiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/api/DefaultApiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/api/DefaultApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/api/DefaultApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/swagger/server/api/DefaultApiMarshaller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/io/swagger/server/api/DefaultApiMarshaller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Téléchargements/testakkahttp/target/scala-2.12/classes/WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
